@@ -17,3 +17,10 @@ git pull https://github.com/iamhirdeshkumar15/GitHub-for-devops.git
 
 Learning is the best way to survive in this world.
 
+git branch dev
+git branch
+git switch dev
+git push origin dev
+
+
+
