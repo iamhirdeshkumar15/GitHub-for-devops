@@ -14,3 +14,5 @@ mkdir git-demo
 cd git-demo
 git clone https://github.com/iamhirdeshkumar15/GitHub-for-devops.git
 
+Learning is the best way to survive in this world.
+
