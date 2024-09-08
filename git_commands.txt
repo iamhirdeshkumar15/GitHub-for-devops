@@ -5,3 +5,12 @@ git status
 git commit -m "message"
 git restore --staged testing.py
 git retsore filename
+git remote add origin https://github.com/iamhirdeshkumar15/GitHub-for-devops.githistoet
+git remote -v
+git remote set-url origin https://token@github.com/iamhirdeshkumar15/GitHub-for-devops.git
+git remote -v
+git push origin master
+mkdir git-demo
+cd git-demo
+git clone https://github.com/iamhirdeshkumar15/GitHub-for-devops.git
+
